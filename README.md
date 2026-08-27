@@ -142,5 +142,5 @@ Versionamento e portfólio
 <br>
 
 <div align="center">
-  <sub>🎬 Visual inspirado em estética anime/cyberpunk para destacar o perfil. Use apenas imagens para as quais você tenha permissão de uso.</sub>
-</div>
+
+ 
